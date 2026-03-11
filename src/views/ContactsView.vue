@@ -114,7 +114,7 @@
               </div>
               <div>
                 <h6 class="fw-bold">Телефон</h6>
-                <p class="text-muted mb-0">+7 (916) 245-23-65</p>
+                <p class="text-muted mb-0">+7 (999) 000-00-00</p>
               </div>
             </div>
 
